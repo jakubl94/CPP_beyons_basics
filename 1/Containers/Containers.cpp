@@ -8,7 +8,7 @@ using std::endl;
 
 int main()
 {
-    vector<int> numbers{1, 2, 3};
+§    vector<int> numbers{1, 2, 3};
     numbers.push_back(4);
     numbers[0] = 15;
     int num = numbers[3];
